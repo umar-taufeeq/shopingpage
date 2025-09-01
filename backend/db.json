@@ -16,7 +16,7 @@
             "category": "men's clothing",
             "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
           },
-          "quantity": 1
+          "quantity": 11
         },
         {
           "product": {
@@ -27,7 +27,7 @@
             "description": "34534fdfdgv",
             "category": "wom"
           },
-          "quantity": 2
+          "quantity": 1
         },
         {
           "product": {
@@ -44,10 +44,76 @@
           "product": {
             "id": "2",
             "title": "Mens Casual Premium Slim Fit T-Shirts ",
-            "price": 22.3,
+            "price": "22",
             "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
             "category": "men's clothing",
-            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+            "image": "https://images.unsplash.com/photo-1709122066720-195fc203e8e4?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          "quantity": 9
+        },
+        {
+          "product": {
+            "id": "3",
+            "title": "Mens Cotton Jacket",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "6",
+            "title": "Solid Gold Petite Micropave ",
+            "price": 168,
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "5",
+            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "price": 695,
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "4",
+            "title": "Mens Casual Slim Fit",
+            "price": 15.99,
+            "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "8",
+            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "price": 10.99,
+            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+          },
+          "quantity": 7
+        },
+        {
+          "product": {
+            "id": "7",
+            "title": "White Gold Plated Princess",
+            "price": 9.99,
+            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
           },
           "quantity": 1
         }
@@ -59,6 +125,59 @@
       "email": "umar@gmail.com",
       "password": "1234567",
       "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "1",
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+          },
+          "quantity": 10
+        },
+        {
+          "product": {
+            "id": "20",
+            "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+            "price": 12.99,
+            "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+          },
+          "quantity": 4
+        },
+        {
+          "product": {
+            "id": "17",
+            "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "price": 39.99,
+            "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "3",
+            "title": "Mens Cotton Jacket",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+          },
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "C1B-hD2Z-2-7W_FdQhb5A",
+      "username": "umar",
+      "email": "umarckp111@gmail.com",
+      "password": "12345678",
+      "isAdmin": false,
       "cart": []
     }
   ],
@@ -69,15 +188,15 @@
       "price": 109.95,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+      "image": "https://plus.unsplash.com/premium_photo-1661423616067-abfd050798a5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "2",
       "title": "Mens Casual Premium Slim Fit T-Shirts ",
-      "price": 22.3,
+      "price": "22",
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
       "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      "image": "https://images.unsplash.com/photo-1709122066720-195fc203e8e4?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "3",
@@ -85,7 +204,7 @@
       "price": 55.99,
       "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
       "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+      "image": "https://images.unsplash.com/photo-1691415993286-91f1586a5e20?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "4",
@@ -93,7 +212,7 @@
       "price": 15.99,
       "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
       "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      "image": "https://images.unsplash.com/photo-1709122067566-98504d13ed55?q=80&w=470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "5",
@@ -101,7 +220,7 @@
       "price": 695,
       "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      "image": "https://plus.unsplash.com/premium_photo-1687989478462-f21931633791?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "6",
@@ -109,7 +228,7 @@
       "price": 168,
       "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+      "image": "https://images.unsplash.com/photo-1703052401023-1420639e3de3?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "7",
@@ -117,7 +236,7 @@
       "price": 9.99,
       "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+      "image": "https://plus.unsplash.com/premium_photo-1673356302439-fa5252f45abb?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "8",

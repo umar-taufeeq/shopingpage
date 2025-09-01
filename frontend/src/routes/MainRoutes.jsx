@@ -1,11 +1,12 @@
 import { Route, Routes } from "react-router-dom";
 import { lazy } from "react";
+import Home from "../pages/Home";
 const UserProfile = lazy(() => import("../pages/user/UserProfile"));
-const Products = lazy(() => import("../pages/products"));
+const Products = lazy(() => import("../pages/Products"));
 const Login = lazy(() => import("../pages/Login"));
 const Register = lazy(() => import("../pages/Register"));
-const CreateProduct = lazy(() => import("../pages/admin/CreateProduct"));
-const ProductDetails = lazy(() => import("../pages/admin/ProductDetails"));
+const CreateProduct = lazy(() => import("../pages/Admin/CreateProduct"));
+const ProductDetails = lazy(() => import("../pages/Admin/ProductDetails"));
 const AuthWrapper = lazy(() => import("./AuthWrapper"));
 const Cart = lazy(() => import("../pages/Cart"));
 const UnauthWrapper=lazy(()=> import("./UnauthWrapper"))
@@ -32,7 +33,8 @@ const Mainroutes = () => {
         //     <Route path="/product/:id" element={<ProductDetails />} />
         // </Routes>
          <Routes>
-            <Route path="/" element={<Products />} />
+            <Route path="/" element={<Home/>} />
+            <Route path="/products" element={<Products />} />
 
             <Route path="/login" element={ <UnauthWrapper>
                         <Login />

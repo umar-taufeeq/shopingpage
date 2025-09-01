@@ -26,7 +26,7 @@ const Products = () => {
                 </p>
             }
         >
-            <div className="flex flex-wrap">
+            <div className="flex flex-col sm:flex-row sm:flex-wrap">
                 {products.map((product) => (
                     <Suspense    //used for lazy loading  it requires it componnebnt should also be lazy
                         key={product.id}

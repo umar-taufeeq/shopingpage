@@ -26,10 +26,19 @@ const App = () => {
   //   }, [products]);
 
   return (
-    <div className="  px-[10%] text-white font-thin w-full h-auto bg-gray-800">
-            <Nav />
-            <Mainroutes />
-        </div>
+    // <div className="  px-[10%] text-white font-thin w-full h-auto bg-gray-800">
+    //         <Nav />
+    //         <Mainroutes />
+    //     </div>
+     <div className="min-h-screen w-full bg-gray-50">
+      {/* Navbar stays fixed at top */}
+      <Nav />
+
+      {/* Main Content */}
+      <div className="px-[8%] py-6">
+        <Mainroutes />
+      </div>
+    </div>
   )
 }
 
